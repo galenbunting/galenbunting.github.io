@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Welcome to my website!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Dr. Galen David Bunting is a postdoctoral teaching associate at Northeastern University. His research examines shell-shock narratives in Modernist literature through the lens of masculinity and gender in the aftermath of the First World War, drawing on original archival research. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[g.bunting@northeastern.edu](mailto:g.bunting@northeastern.edu)
